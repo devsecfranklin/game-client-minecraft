@@ -1,0 +1,1 @@
+| /spawnpoint | set own spawn point |
