@@ -1,0 +1,24 @@
+{
+  "quickPlayData" : {
+    "2533274896132930" : 
+    [
+      {
+        "epochLastPlayedTimeMs" : 1762272994603,
+        "id" : "forge",
+        "javaInstance" : {
+          "configId" : "forge"
+        },
+        "source" : "Java"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1762272710494,
+        "id" : "04af4bec4ab6b0cb6225f1284183bde4",
+        "javaInstance" : {
+          "configId" : "04af4bec4ab6b0cb6225f1284183bde4"
+        },
+        "source" : "Java"
+      }
+    ]
+  },
+  "version" : 2
+}

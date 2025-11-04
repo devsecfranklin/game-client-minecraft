@@ -1,3 +1,11 @@
+assets/
+bin/
+config/
+defaultconfigs/
+downloads/
+libraries/
+quickPlay/
+runtime/
 *.log
 logs/
 *.txt
