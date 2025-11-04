@@ -4,6 +4,7 @@ logs/
 launcher/
 launcher_log.txt
 launcher_msa_credentials.bin
+mods/
 versions/
 webcache2/
 window_settings_launcher.conf

@@ -24,11 +24,11 @@
     "enableHistorical" : false,
     "enableReleases" : true,
     "enableSnapshots" : false,
-    "keepLauncherOpen" : false,
+    "keepLauncherOpen" : true,
     "profileSorting" : "ByLastPlayed",
     "showGameLog" : false,
     "showMenu" : false,
     "soundOn" : false
   },
-  "version" : 4
+  "version" : 5
 }
