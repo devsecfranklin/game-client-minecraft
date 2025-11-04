@@ -4,10 +4,11 @@ config/
 defaultconfigs/
 downloads/
 libraries/
+local/
+logs/
 quickPlay/
 runtime/
 *.log
-logs/
 *.txt
 launcher/
 launcher_log.txt

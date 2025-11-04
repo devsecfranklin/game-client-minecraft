@@ -3,11 +3,13 @@
     "2533274896132930" : 
     [
       {
-        "epochLastPlayedTimeMs" : 1762272994603,
+        "epochLastPlayedTimeMs" : 1762274336070,
         "id" : "forge",
         "javaInstance" : {
           "configId" : "forge"
         },
+        "letterGlyphVisible" : true,
+        "pinnedIndex" : 0,
         "source" : "Java"
       },
       {
