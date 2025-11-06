@@ -1,0 +1,37 @@
+{
+  "quickPlayData" : {
+    "2533274896132930" : 
+    [
+      {
+        "epochLastPlayedTimeMs" : 1762378223541,
+        "id" : "forge",
+        "javaInstance" : {
+          "configId" : "forge"
+        },
+        "source" : "Java"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1762305932000,
+        "id" : "10.10.9.177:25566",
+        "javaInstance" : {
+          "configId" : "forge",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "chonk station alpha",
+        "source" : "Java"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1762304865834,
+        "id" : "04af4bec4ab6b0cb6225f1284183bde4",
+        "javaInstance" : {
+          "configId" : "04af4bec4ab6b0cb6225f1284183bde4"
+        },
+        "source" : "Java"
+      }
+    ]
+  },
+  "version" : 2
+}
