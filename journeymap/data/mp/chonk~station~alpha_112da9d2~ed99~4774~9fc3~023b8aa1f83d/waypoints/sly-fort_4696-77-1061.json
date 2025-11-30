@@ -1,6 +1,7 @@
 {
   "id": "sly-fort_4696-77-1061",
   "name": "sly fort",
+  "groupName": "Waypoints",
   "icon": "journeymap:ui/img/waypoint-icon.png",
   "colorizedIcon": "fake:color--10087446-waypoint-icon.png",
   "x": 4696,

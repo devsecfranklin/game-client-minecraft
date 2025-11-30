@@ -3,8 +3,8 @@
     "2533274896132930" : 
     [
       {
-        "epochLastPlayedTimeMs" : 1762825325000,
-        "id" : "10.10.9.177:25566",
+        "epochLastPlayedTimeMs" : 1764459100000,
+        "id" : "10.10.8.60:25566",
         "javaInstance" : {
           "configId" : "forge",
           "game" : {
@@ -16,7 +16,7 @@
         "source" : "Java"
       },
       {
-        "epochLastPlayedTimeMs" : 1762741830000,
+        "epochLastPlayedTimeMs" : 1764124498000,
         "id" : "mc.s1yb0rg.com",
         "javaInstance" : {
           "configId" : "04af4bec4ab6b0cb6225f1284183bde4",
@@ -29,23 +29,33 @@
         "source" : "Java"
       },
       {
-        "epochLastPlayedTimeMs" : 1762739248513,
-        "id" : "e36319631e420c6deadddffcdbf8835e",
+        "epochLastPlayedTimeMs" : 1764038502000,
+        "id" : "10.10.8.60:25566",
         "javaInstance" : {
-          "configId" : "e36319631e420c6deadddffcdbf8835e"
+          "configId" : "forge",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "multiplayer"
+          }
         },
+        "name" : "chonk station alpha",
         "source" : "Java"
       },
       {
-        "epochLastPlayedTimeMs" : 1762735798626,
-        "id" : "forge",
+        "epochLastPlayedTimeMs" : 1763776352000,
+        "id" : "10.10.9.177:25566",
         "javaInstance" : {
-          "configId" : "forge"
+          "configId" : "forge",
+          "game" : {
+            "gamemode" : "creative",
+            "type" : "multiplayer"
+          }
         },
+        "name" : "chonk station alpha",
         "source" : "Java"
       },
       {
-        "epochLastPlayedTimeMs" : 1762562280000,
+        "epochLastPlayedTimeMs" : 1763486055000,
         "id" : "10.10.9.177:25566",
         "javaInstance" : {
           "configId" : "forge",
@@ -58,10 +68,26 @@
         "source" : "Java"
       },
       {
-        "epochLastPlayedTimeMs" : 1762304865834,
+        "epochLastPlayedTimeMs" : 1763261042049,
+        "id" : "forge",
+        "javaInstance" : {
+          "configId" : "forge"
+        },
+        "source" : "Java"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1763070822549,
         "id" : "04af4bec4ab6b0cb6225f1284183bde4",
         "javaInstance" : {
           "configId" : "04af4bec4ab6b0cb6225f1284183bde4"
+        },
+        "source" : "Java"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1762739248513,
+        "id" : "e36319631e420c6deadddffcdbf8835e",
+        "javaInstance" : {
+          "configId" : "e36319631e420c6deadddffcdbf8835e"
         },
         "source" : "Java"
       }
