@@ -1,36 +1,34 @@
 {
   "DO_NOT_CHANGE_IT": 2,
-  "modpackName": "",
+  "modpackName": "wonderland",
   "modpackHost": true,
   "generateModpackOnStart": true,
   "syncedFiles": [
-    "/mods/*.jar",
-    "/kubejs/**",
-    "!/kubejs/server_scripts/**",
-    "/emotes/*"
+    "/mods/*.jar"
   ],
   "allowEditsInFiles": [
     "/options.txt",
-    "/config/**"
+    "/config/*",
+    "/server.properties"
   ],
   "forceCopyFilesToStandardLocation": [],
-  "autoExcludeServerSideMods": true,
-  "autoExcludeUnnecessaryFiles": true,
-  "requireAutoModpackOnClient": true,
-  "nagUnModdedClients": true,
-  "nagMessage": "This server provides dedicated modpack through AutoModpack!",
+  "autoExcludeServerSideMods": false,
+  "autoExcludeUnnecessaryFiles": false,
+  "requireAutoModpackOnClient": false,
+  "nagUnModdedClients": false,
+  "nagMessage": "bitsmasher.net provides dedicated modpack through AutoModpack!",
   "nagClickableMessage": "Click here to get the AutoModpack!",
-  "nagClickableLink": "https://modrinth.com/project/automodpack",
+  "nagClickableLink": "https://10.10.12.19/minecraft",
   "bindAddress": "",
   "bindPort": -1,
-  "addressToSend": "",
+  "addressToSend": "10.10.9.177",
   "portToSend": -1,
   "disableInternalTLS": false,
   "updateIpsOnEveryStart": false,
   "bandwidthLimit": 0,
   "validateSecrets": true,
   "secretLifetime": 336,
-  "selfUpdater": false,
+  "selfUpdater": true,
   "acceptedLoaders": [
     "forge"
   ]

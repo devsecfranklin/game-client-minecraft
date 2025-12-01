@@ -1,10 +1,9 @@
 assets/
 bin/
-config/
+/config/
 defaultconfigs/
 downloads/
 libraries/
-local/
 logs/
 quickPlay/
 runtime/
